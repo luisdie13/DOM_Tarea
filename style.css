@@ -1,0 +1,19 @@
+/* Estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+/* Estilo para el párrafo con mi nombre */
+p {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
